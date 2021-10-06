@@ -10,6 +10,7 @@ I'm Abhishek Kumar Sinha
 - 📫 How to reach me: email4abhi@gmail.com
 - 😄 Pronouns: I, He
 - ⚡ Fun fact: Thinking
+- 👨‍💼 About me : I'm a Software Engineer.
 
 
 <!--
