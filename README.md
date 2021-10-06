@@ -11,6 +11,7 @@ I'm Abhishek Kumar Sinha
 - 😄 Pronouns: I, He
 - ⚡ Fun fact: Thinking
 - 👨‍💼 About me : I'm a Software Engineer.
+                I have B. Tech. in Computer Science and Engineering.
 
 
 <!--
